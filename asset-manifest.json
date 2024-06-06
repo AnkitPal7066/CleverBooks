@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CleverBooks/static/css/main.5ac94d30.css",
+    "main.js": "/CleverBooks/static/js/main.e96247ec.js",
+    "index.html": "/CleverBooks/index.html",
+    "main.5ac94d30.css.map": "/CleverBooks/static/css/main.5ac94d30.css.map",
+    "main.e96247ec.js.map": "/CleverBooks/static/js/main.e96247ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ac94d30.css",
+    "static/js/main.e96247ec.js"
+  ]
+}
